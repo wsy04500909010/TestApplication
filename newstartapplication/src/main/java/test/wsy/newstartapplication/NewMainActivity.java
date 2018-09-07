@@ -8,6 +8,8 @@ import android.wsy.testapplication.MainActivity;
 
 public class NewMainActivity extends AppCompatActivity {
 
+    //更改的内容
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
